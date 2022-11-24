@@ -4,5 +4,3 @@
 
 ![image](https://github.com/fBn0523/Power_bank/blob/main/images/img1.JPG)
 
-
-# 已完成样机制造,持续更新中!
