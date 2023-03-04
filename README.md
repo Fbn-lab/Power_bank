@@ -31,4 +31,5 @@
       4. 使用5节亿纬锂能3300mah 18650电芯.整体造价100(人民币)左右
       5. 外壳需要使用两个330ml可口可乐罐,切割工具需自备
 # 图片
-![image](https://github.com/fBn0523/Power_bank/blob/main/images/img1.JPG) ![image](https://github.com/Fbn-lab/Power_bank/blob/main/images/img4.jpg)
+![image](https://github.com/Fbn-lab/Power_bank/blob/power_bank_plus/images/img5.JPG)
+![image](https://github.com/Fbn-lab/Power_bank/blob/main/images/img4.jpg)
